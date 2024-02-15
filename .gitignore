@@ -1,0 +1,7 @@
+## Ignore folders
+target/
+.vscode/
+.idea/
+
+## Ignore files
+aniwash/aniwash.iml
